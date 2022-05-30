@@ -1,0 +1,27 @@
+# depslib dependency file v1.0
+1652444035 source:d:\coding\cs50\libcs50-main\src\cs50.c
+	<ctype.h>
+	<errno.h>
+	<float.h>
+	<limits.h>
+	<math.h>
+	<stdarg.h>
+	<stdint.h>
+	<stdbool.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"cs50.h"
+
+1644177217 d:\coding\cs50\libcs50-main\src\cs50.h
+	<float.h>
+	<limits.h>
+	<stdarg.h>
+	<stdbool.h>
+	<stddef.h>
+
+1653946365 source:d:\coding\c-programs\binary search\main.c
+	<stdio.h>
+	<stdlib.h>
+	<cs50.h>
+
